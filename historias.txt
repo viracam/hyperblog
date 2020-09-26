@@ -7,4 +7,6 @@ y ahora puede editar
 
 master 1
 
+master 2
+
 Mañana nosenfocaremos en su vida laboral
